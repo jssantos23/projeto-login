@@ -28,7 +28,7 @@
     body {
         background-image: linear-gradient(to top, #9b4dd1, #49a09d);
     }
-    
+
     section#login {
         width: 950px;
     }
@@ -45,3 +45,4 @@
     }
     
 }
+
